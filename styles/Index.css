@@ -160,4 +160,8 @@ h4 {
     flex-wrap:wrap;
     align-items : center;
   }
+  
+  .cards{
+    overflow : scroll;
+  }
 }
