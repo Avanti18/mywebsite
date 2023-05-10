@@ -152,4 +152,7 @@ h4 {
     margin-left: 10%;
     font-size: 15px;
   }
+  .card{
+    width : 35%;
+  }
 }
