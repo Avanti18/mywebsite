@@ -154,6 +154,7 @@ h4 {
   }
   .card{
     width : 35%;
+    overflow : hidden;
   }
   .Sidebar{
     flex-wrap:wrap;
