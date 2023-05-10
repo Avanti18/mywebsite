@@ -1,0 +1,13 @@
+
+      h1 {
+        color: whitesmoke;
+        text-align: center;
+      }
+      body {
+        background-image: linear-gradient(#b20a2c, #fffbd5);
+      }
+      li {
+        font-style: oblique;
+         font-weight: bolder;
+      }
+           

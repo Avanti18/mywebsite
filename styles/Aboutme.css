@@ -1,0 +1,17 @@
+
+      h1 {
+        color: palevioletred;
+        text-align: center;
+      }
+      h2 {
+        color: black;
+        text-align: justify;
+      }
+      .bottomDiv p{ 
+        padding: 20px;
+      }
+      p{
+      font-family : 'Lobster', cursive;
+      font-size: large;
+      }
+ 
