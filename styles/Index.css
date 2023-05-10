@@ -7,7 +7,6 @@
 }
 body {
   background-image: linear-gradient(#114357, #f29492);
-  background-size : cover;
 }
 
 .Header {
@@ -37,7 +36,9 @@ body {
   display: flex;
   align-items: center;
 }
-
+h1{
+  margin-left : 1%;
+}
 .Footer img {
   margin-left: 12px;
 }
@@ -127,7 +128,7 @@ h4 {
 }
 .Welcome img:hover {
   /* transform : rotate(360deg);  */
-  transform: scale(1.3);
+  transform: scale(1.4);
   /* transform: translateX(85px); */
   /* transform: skew(180deg); */
   cursor: pointer;
