@@ -159,6 +159,7 @@ h4 {
   .Sidebar{
     flex-wrap:wrap;
     align-items : center;
+    justify-content : space-around;
   }
   
   .cards{
